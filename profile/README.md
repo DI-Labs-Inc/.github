@@ -6,4 +6,4 @@ DI Labs is a manufacturing company delivering high-quality Additive Manufacturin
 
 We work across the full AM lifecycle: design for AM (DfAM), process parameter development, material qualification, metrology & validation, post-processing automation, and production scale-up. We welcome contributions and collaboration that advance safe, validated, and reusable AM practices.
 
-[Although we are not looking for any development focused roles at this time if you think you have what it takes to be a solutionologist take a look at whats availible](https://dilabs.cc/careers/).
+[Although we are not looking for any development focused roles at this time if you think you have what it takes to be a solutionologist take a look at whats available](https://dilabs.cc/careers/).
